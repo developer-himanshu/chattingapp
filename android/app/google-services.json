@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895696403682",
+    "project_id": "chatappkoko-10fa5",
+    "storage_bucket": "chatappkoko-10fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895696403682:android:ea4a5ca3836c31e2cdf2bb",
+        "android_client_info": {
+          "package_name": "com.example.chatappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApf5-rbfayDqOO2Vpkiy8XDcrI5tCorlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
